@@ -1,23 +1,22 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Jae Oh, jaeyo@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
-- */1 Communicating with the webserver
-- */1 Populating information about the user
-- */3 Populating the search component
-- */3 Artist page
-- */1.5 Album page
-- */0.5 Track page
+10/10
+- 1/1 Communicating with the webserver
+- 1/1 Populating information about the user
+- 3/3 Populating the search component
+- 3/3 Artist page
+- 1.5/1.5 Album page
+- 0.5/0.5 Track page
 
 
 2. How long, in hours, did it take you to complete this assignment?
-
-
+6
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
-
-
+https://developer.mozilla.org/en-US/
+https://angular.dev/overview
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
