@@ -1,4 +1,4 @@
---Readme document for Jae Oh, jaeyo@uci.edu--
+--Readme document for Jae Oh, jaeyo@uci.edu    Nathan McLaughlin, namclaug@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
@@ -12,7 +12,7 @@
 
 
 2. How long, in hours, did it take you to complete this assignment?
-6
+12 hours
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 https://developer.mozilla.org/en-US/
@@ -20,11 +20,13 @@ https://angular.dev/overview
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-
+We did not consult any other classmates outside of our group. Between members of our group, we discussed how we
+would divide up the work, and if we encountered any bugs.
 
 5. Did you add a bonus feature to your submission? If so, what is it and how should we see it?
 
-
+No.
 
 6. Is there anything special we need to know in order to run your code?
 
+No. 
