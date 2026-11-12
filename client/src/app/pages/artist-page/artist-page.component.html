@@ -4,7 +4,7 @@
 			<!--TODO: populate with artist name-->
 			<h1>{{ artist.name }}</h1>
 			<!--TODO: populate with artist image URL-->
-			<img id="artistImg" [src]="artist.imageURL" class="img-fluid">
+			<img id="artistImg" [src]="artist.imageURL" class="img-fluid" style="max-width: 100%;">
 			<p>
 				<!--TODO: link to artist page on spotify, display artist name-->
 				<a class="btn btn-light" role="button" target="_blank" [href]="artist.url">Open {{ artist.name }} on Spotify</a>
